@@ -1,3 +1,3 @@
 # Algorithmic Adventures: The King's Gambit
-
-## Project 7: Branching Out:
+// queens game
+## Project 7: finished 
